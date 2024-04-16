@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/latus/icon/
 skupiny ikon
 <br/>
 -------------------------
-<br/>
+<br/><br/>
 <i> 
 příklad: 
 <br/>
