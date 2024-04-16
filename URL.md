@@ -9,9 +9,7 @@ https://raw.githubusercontent.com/latus/icon/
 skupiny ikon
 <br/>
 <i> 
-příklad: 
-<br/>
-https://raw.githubusercontent.com/latus/icon/auto/cb-auto-06.png
+např. https://raw.githubusercontent.com/latus/icon/auto/cb-auto-06.png
 </i>
 <br/><br/>
     auto/
