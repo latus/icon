@@ -5,7 +5,7 @@ URL ADRESY UMÍSTĚNÍ IKONY
 základní adresa
 <br/>
 -------------------------
-<br/>
+<br/><br/><br/>
 https://raw.githubusercontent.com/latus/icon/
 <br/>
 -------------------------
@@ -19,7 +19,7 @@ příklad:
 <br/>
 https://raw.githubusercontent.com/latus/icon/auto/cb-auto-06.png
 </i>
-<br/>
+<br/><br/><br/>
     auto/
 <br/>
     anim/
