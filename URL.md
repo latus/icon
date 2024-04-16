@@ -5,7 +5,9 @@ základní adresa
 -------------------------
 <br/>
   https://raw.githubusercontent.com/latus/icon/
-<hr/>
+<br/>
+-------------------------
+<br/>
 skupiny ikon
 <br/>
 -------------------------
