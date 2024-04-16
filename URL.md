@@ -14,6 +14,8 @@ skupiny ikon
 <br/>
 -------------------------
 <br/>
+<i> příklad: https://raw.githubusercontent.com/latus/icon/auto/</i>
+<br/>
     auto/
 <br/>
     anim/
