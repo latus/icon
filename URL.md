@@ -1,6 +1,5 @@
 URL ADRESY UMÍSTĚNÍ IKONY
 <br/>
--------------------------
 <br/>
 základní adresa
 <br/>
