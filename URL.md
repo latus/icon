@@ -1,18 +1,11 @@
 URL ADRESY UMÍSTĚNÍ IKONY
 
     základní adresa
-    <br/>
-    https://raw.githubusercontent.com/latus/icon/
-    <br/>
+        https://raw.githubusercontent.com/latus/icon/
 
-skupiny ikon
-    
-    <br/>
-    <i> např. https://raw.githubusercontent.com/latus/icon/auto/cb-auto-06.png </i>
-    <br/>
+skupiny
+
+    např. https://raw.githubusercontent.com/latus/icon/auto/cb-auto-06.png </i>
         auto/
-    <br/>
         anim/
-    <br/>
         blue/
-    <br/>
