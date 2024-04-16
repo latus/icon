@@ -7,9 +7,10 @@ základní adresa
 <br/>
 https://raw.githubusercontent.com/latus/icon/
 <br/><br/>
--------------------------
-<br/>
+
 skupiny ikon
+<br/>
+-------------------------
 <br/>
 <i> 
 příklad: 
