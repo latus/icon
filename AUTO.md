@@ -1,4 +1,6 @@
-IKONY 
-  VOZOVÝ PARK
+VOZOVÝ PARK
   
-    Ikony, modré, vozový park
+    Ikony
+    typ: PNG
+    barva: MODRÁ
+    téma: VOZOVÝ PARK
