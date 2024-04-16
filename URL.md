@@ -1,10 +1,12 @@
 URL ADRESY UMÍSTĚNÍ IKONY
-<br/><br/>
+<br/>
+-------------------------
+<br/>
 základní adresa
 <br/>
 -------------------------
 <br/>
-  https://raw.githubusercontent.com/latus/icon/
+https://raw.githubusercontent.com/latus/icon/
 <br/>
 -------------------------
 <br/>
