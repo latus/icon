@@ -3,6 +3,7 @@ URL ADRESY UMÍSTĚNÍ IKONY
 základní adresa
 <br/>
 -------------------------
+<br/>
   https://raw.githubusercontent.com/latus/icon/
 <hr/>
 skupiny ikon
