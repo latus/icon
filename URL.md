@@ -14,7 +14,9 @@ skupiny ikon
 <br/>
 -------------------------
 <br/>
-<i> příklad: https://raw.githubusercontent.com/latus/icon/auto/</i>
+<i> příklad: 
+<br/>
+[https://raw.githubusercontent.com/latus/icon/auto/](https://raw.githubusercontent.com/latus/icon/auto/cb-auto-06.png)</i>
 <br/>
     auto/
 <br/>
