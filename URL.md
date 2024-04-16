@@ -11,8 +11,6 @@ https://raw.githubusercontent.com/latus/icon/
 <br/>
 skupiny ikon
 <br/>
--------------------------
-<br/><br/>
 <i> 
 příklad: 
 <br/>
